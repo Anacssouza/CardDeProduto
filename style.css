@@ -1,0 +1,99 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-color: #1E1E1E;
+}
+
+.container {
+  display: flex;
+  margin: auto;
+  margin-top: 100px;
+  padding: 95px 10px;
+  width: 875px;
+  height: 300px;
+  background-color: #D9CDF7;
+  border-radius: 10px;
+  box-shadow: 10px 10px 10px #000000
+}
+
+.container .sofa-container .sofa {
+  position: relative;
+  width: 449px;
+  height: 253px;
+  margin-left: 20px;
+  margin-top: 30px;
+}
+
+.container .sofa-container .vector {
+  position: absolute;
+  left: 45%;
+  top: 35%;
+}
+
+.container .sofa-container .sofaa {
+  position: absolute;
+  left: 45%;
+  top: 35%;
+}
+
+.container .sofa-container .vector:hover{
+  cursor: pointer;
+}
+
+/* .container .sofa-container .vector-X{
+  opacity: 0;
+} */
+
+.information {
+  align-items: left;
+  color: #271A45;
+  margin-top: 85px;
+  padding-left: 10px;
+  font-family: 'Crimson Pro';
+}
+
+.information h1{
+  font-weight: 600;
+  font-size: 32px;
+  margin: 12px 0;
+}
+
+.information button{
+  margin: 20px 0;
+  border: 1px solid #271A45;
+  border-radius: 20px;
+  padding: 7px 20px;
+  background-color: #D9CDF7;
+  font-family: 'Lato';
+  font-weight: 400;
+  font-size: 12px;
+}
+
+.information button:hover {
+  border: 1px solid #D9CDF7;
+  color: #D9CDF7;
+  background-color: #271A45;
+  cursor: pointer;
+}
+
+.information .codigo{
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 10px;
+  line-height: 100%;
+}
+
+.information .valor {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 100%;
+}
+
+
+
