@@ -12,7 +12,7 @@
 clicar no botão de 360° graus é possível visualizar um gif do sofá em 360°
 
 - Você pode acessar a plataforma através do link abaixo:
-   - Deploy: 
+   - Deploy: https://anacssouza.github.io/CardDeProduto/
 
 
 <h2> ✨ Tecnologias utilizadas </h2>
